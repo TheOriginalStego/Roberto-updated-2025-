@@ -51,6 +51,12 @@ The power system has been revised in May 2016, leading to the design of a new pu
 In 2017, a second pump was added. The pumps are driven by having stacked PCBs from 2016. Furthermore, a shield made from veroboard was made. It works as a normal shield instead of an "inverted shield". This way if the Prismino dies, any other can be used. 
 Also, the amount of liquid to be poured is now measured using a scale instead of a timer (ie no measurement). This required the hand to be redesigned and the design can be found on the Fusion360 account of Robopoly.
 
+## CHANGELOG
+In may 2025, repair and maintenance was done by Tibor Truong.
+The design of both hands was modified in order to adapt to various sizes of glasses and improve reliability. The loadcell was removed from it's plattform underneath the cup holder and was integrated directly into the cup holder (holder itself measures the weight).
+The switch that sensed the closing of the hands was replaced by a reed contact sensor. This ensures that contact is closed even when the arms don't touch very well (due to mechanical play).
+The existing two pumps were thoroughly cleaned with an 1% NaOH solution to get rid of the mold and other gunk that has been building up for years.
+
 ## Credits
 
 This project has been an ongoing one and a lot of people have been working on it without whom this wonderful robot would've never existed.
