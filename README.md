@@ -52,7 +52,7 @@ In 2017, a second pump was added. The pumps are driven by having stacked PCBs fr
 Also, the amount of liquid to be poured is now measured using a scale instead of a timer (ie no measurement). This required the hand to be redesigned and the design can be found on the Fusion360 account of Robopoly.
 
 ## CHANGELOG
-# 2025
+### 2025 Maintenance and repair
 In may 2025, repair and maintenance was done by Tibor Truong.
 The design of both hands was modified in order to adapt to various sizes of glasses and improve reliability. The loadcell was removed from it's plattform underneath the cup holder and was integrated directly into the cup holder (holder itself measures the weight).
 The switch that sensed the closing of the hands was replaced by a reed contact sensor. This ensures that contact is closed even when the arms don't touch very well (due to mechanical play).
