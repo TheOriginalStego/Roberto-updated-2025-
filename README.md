@@ -55,8 +55,9 @@ Also, the amount of liquid to be poured is now measured using a scale instead of
 ### 2025 Maintenance and repair
 In may 2025, repair and maintenance was done by Tibor Truong.
 The design of both hands was modified in order to adapt to various sizes of glasses and improve reliability. The loadcell was removed from it's plattform underneath the cup holder and was integrated directly into the cup holder (holder itself measures the weight).
-The switch that sensed the closing of the hands was replaced by a reed contact sensor. This ensures that contact is closed even when the arms don't touch very well (due to mechanical play).
-The existing two pumps were thoroughly cleaned with an 1% NaOH solution to get rid of the mold and other gunk that has been building up for years.
+The switch that sensed the closing of the hands was replaced by a reed sensor. This ensures that contact is closed even when the arms don't touch very well (due to mechanical play).
+The existing two pumps were thoroughly cleaned with a 1% NaOH solution to get rid of the mold and other gunk that has been building up for years.
+During repair, the loadcell amplifier board was damaged, it got replaced by a more recent model sold by Robopoly.
 
 ## Credits
 
