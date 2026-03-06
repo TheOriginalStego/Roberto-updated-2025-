@@ -54,10 +54,12 @@ Also, the amount of liquid to be poured is now measured using a scale instead of
 ## CHANGELOG
 ### 2025 Maintenance and repair
 In may 2025, repair and maintenance was done by Tibor Truong.
-The design of both hands was modified in order to adapt to various sizes of glasses and improve reliability. The loadcell was removed from it's plattform underneath the cup holder and was integrated directly into the cup holder (holder itself measures the weight).
+The design of both hands was modified in order to adapt to various sizes of glasses and improve reliability. The loadcell was removed from it's plattform underneath the cup holder and was integrated directly into the cup holder (holder itself measures the weight). The hand on the "pouring" side was also redesigned. The hoses can now be installed and removed way faster thanks to zipties.
 The switch that sensed the closing of the hands was replaced by a reed sensor. This ensures that contact is closed even when the arms don't touch very well (due to mechanical play).
 The existing two pumps were thoroughly cleaned with a 1% NaOH solution to get rid of the mold and other gunk that has been building up for years.
 During repair, the loadcell amplifier board was damaged, it got replaced by a more recent model sold by Robopoly.
+
+Note for users: Please always rince the hoses at least with warm water (or better with a desinfecting solution) and dry them completely before putting away the robot for storage. Leaving liquids in the pumps and hoses leads to mold formation and it's very work intensive to get rid of it again. Not even mentioning that it's disgusting and not foodsafe.
 
 ## Credits
 
